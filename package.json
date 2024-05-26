@@ -26,6 +26,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.17",
     "concurrently": "^7.0.0"
   },
   "eslintConfig": {
